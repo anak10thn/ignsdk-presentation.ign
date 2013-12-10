@@ -1,0 +1,22 @@
+{
+  "config" : { 
+		"debug" : true,
+		"debug-port" : 6969,
+		"websecurity" : true,
+		"name" : "IGNSDK Presentation"
+  },
+  "window" : { 
+		"transparent" : false, 
+		"noframe" : false, 
+		"fullscreen" : true,
+		"maximize" : false,
+		"width" : 1200,
+		"height" : 800
+	},
+  "button" : [
+		"back",
+		"forward",
+		"stop",
+		"reload"
+	]
+}
